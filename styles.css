@@ -1,7 +1,5 @@
 body {
-    background-image: linear-gradient(to right top, #ffffff, #e5e0f6, #cdc2ec, #b6a4e0, #a086d4, #926eb8, #84569d, #753f82, #5f2d59, #441f37, #26141c, #000000);
-    background-repeat: no-repeat;
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-image: linear-gradient(to right top, #ffffff, #e5e0f6, #cdc2ec, #b6a4e0, #a086d4, #967bc9, #8d71be, #8366b3, #826ba7, #81709b, #7f758f, #7d7983);    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     display: flex;
     justify-content: center;
     align-items: center;
