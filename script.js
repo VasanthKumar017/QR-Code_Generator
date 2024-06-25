@@ -1,6 +1,6 @@
 const qrCode = new QRCodeStyling({
-    width: 500,
-    height: 500,
+    width: 300,
+    height: 300,
     dotsOptions: {
         color: "#000",
         type: "rounded"
